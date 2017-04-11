@@ -1,2 +1,2 @@
-# Jack-s-Experiments
+# Jack's Experiments
 I know this will be terrible and you'll hate it, but please let me be happy if I even manage to recreate the "Hello World!" example...
